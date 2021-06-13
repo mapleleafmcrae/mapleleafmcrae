@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mapleleafmcrae
 - 👀 I’m interested in learning coding related to cybersecurity/ SIGINT
-- 🌱 I’m currently learning basics of code, focusing on PYTHON (also interested in C++/C and JS.
+- 🌱 I’m currently learning basics of code, focusing on PYTHON for the first coding language.
 - 💞️ Not looking to collab as of yet, but having someone to chew their ear off with questions and to help guide me would be much appreciated.
 - 📫 How to reach me ... Discord: CptnBambi#1413
 <!---
